@@ -1,0 +1,49 @@
+name: evalyn.mosciski
+description: coherent
+version: 0.0.1
+author: jb0ixyoi.ivsg5gjy@uaek1vz2.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: evalynmosciski
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:06:55'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:06:55'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:06:55.79989Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1421167833'
+  createdAt: '2024-11-22T23:06:55.79989Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
